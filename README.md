@@ -68,8 +68,11 @@ Make sure you have the following installed:
   GET /users/{id}
 ```
 
-## health monitoring urls
+## actuator url
 ```
 http://domain:port/user_project-0.0.1-SNAPSHOT/actuator
+```
+## Health monitoring url
+```
 http://domain:port/user_project-0.0.1-SNAPSHOT/actuator/health
 ```
